@@ -1,0 +1,25 @@
+/* Logo lockup: do not force all-caps on the wordmark */
+.logo-lockup {
+  display: block;
+  height: 2.25rem;
+  width: auto;
+}
+
+.site-header .logo-lockup {
+  height: 2.2rem;
+}
+
+.site-footer .logo-lockup {
+  height: 1.75rem;
+  opacity: 0.95;
+}
+
+.logo-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.logo-link:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 4px;
+}
