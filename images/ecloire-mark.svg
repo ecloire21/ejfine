@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 120" role="img" aria-labelledby="title desc">
+  <title id="title">Ecloire</title>
+  <desc id="desc">Ecloire mark: faceted gemstone with four-pointed star</desc>
+  <defs>
+    <style>
+      .st { fill: none; stroke: #C5A059; stroke-width: 2.15; stroke-linejoin: miter; stroke-linecap: round; }
+    </style>
+  </defs>
+  <!-- Elongated octagonal gem silhouette -->
+  <path class="st" d="M40 6 L62 18 L72 38 L72 82 L62 102 L40 114 L18 102 L8 82 L8 38 L18 18 Z" />
+  <!-- Facet lines -->
+  <path class="st" d="M40 6 V38 M40 114 V82 M8 38 L26 52 M72 38 L54 52 M8 82 L26 68 M72 82 L54 68 M18 18 L40 38 M62 18 L40 38 M18 102 L40 82 M62 102 L40 82" />
+  <!-- Inner four-point star (compass / sparkle) -->
+  <path class="st" d="M40 36 L56 60 L40 84 L24 60 Z" />
+</svg>

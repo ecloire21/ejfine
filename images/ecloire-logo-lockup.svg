@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 56" role="img" aria-labelledby="lt">
+  <title id="lt">Ecloire</title>
+  <defs>
+    <style>
+      .m { fill: none; stroke: #C5A059; stroke-width: 2.15; stroke-linejoin: miter; stroke-linecap: round; }
+      .t { fill: #C5A059; font-family: Georgia, serif; font-size: 24px; font-weight: 400; letter-spacing: 0.2em; }
+    </style>
+  </defs>
+  <g transform="translate(4,4) scale(0.32)">
+    <path class="m" d="M40 6 L62 18 L72 38 L72 82 L62 102 L40 114 L18 102 L8 82 L8 38 L18 18 Z" />
+    <path class="m" d="M40 6 V38 M40 114 V82 M8 38 L26 52 M72 38 L54 52 M8 82 L26 68 M72 82 L54 68 M18 18 L40 38 M62 18 L40 38 M18 102 L40 82 M62 102 L40 82" />
+    <path class="m" d="M40 36 L56 60 L40 84 L24 60 Z" />
+  </g>
+  <text x="46" y="36" class="t">Ecloire</text>
+</svg>
